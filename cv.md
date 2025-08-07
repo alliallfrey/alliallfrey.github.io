@@ -58,14 +58,14 @@ I currently hold the following Microsoft Certifications:
 
 Name | Link
 -|-
-DevOps Engineer Expert | <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/"><img src=".attachments/microsoft-certified-expert-badge.png" alt="DevOps Engineer Expert" style="width:50px;height:50px;">
-Azure Solutions Architect Expert | <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><img src=".attachments/microsoft-certified-expert-badge.png" alt="Azure Solutions Architect Expert" style="width:50px;height:50px;">
-Azure Administrator Associate | <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator"><img src=".attachments/microsoft-certified-associate-badge.png" alt="Azure Administrator Associate" style="width:50px;height:50px;">
-Azure Security Engineer Associate | <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><img src=".attachments/microsoft-certified-associate-badge.png" alt="Azure Security Engineer Associate" style="width:50px;height:50px;">
-Solutions Associate: Cloud Platform | <img src=".attachments/microsoft-certified-general-badge.png" alt="Solutions Associate: Cloud Platform" style="width:50px;height:50px;">
-Microsoft Certified Professional | <img src=".attachments/microsoft-certified-general-badge.png" alt="Microsoft Certified Professional" style="width:50px;height:50px;">
+DevOps Engineer Expert | <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/"><img src="https://github.com/alliallfrey/alliallfrey.github.io/blob/main/.attachments/microsoft-certified-expert-badge.png?raw=true" alt="DevOps Engineer Expert" style="width:50px;height:50px;">
+Azure Solutions Architect Expert | <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><img src="https://github.com/alliallfrey/alliallfrey.github.io/blob/main/.attachments/microsoft-certified-expert-badge.png?raw=true" alt="Azure Solutions Architect Expert" style="width:50px;height:50px;">
+Azure Administrator Associate | <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator"><img src="https://github.com/alliallfrey/alliallfrey.github.io/blob/main/.attachments/microsoft-certified-associate-badge.png?raw=true" alt="Azure Administrator Associate" style="width:50px;height:50px;">
+Azure Security Engineer Associate | <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><img src="https://github.com/alliallfrey/alliallfrey.github.io/blob/main/.attachments/microsoft-certified-associate-badge.png?raw=true" alt="Azure Security Engineer Associate" style="width:50px;height:50px;">
+Solutions Associate: Cloud Platform | <img src="https://github.com/alliallfrey/alliallfrey.github.io/blob/main/.attachments/microsoft-certified-general-badge.png?raw=true" alt="Solutions Associate: Cloud Platform" style="width:50px;height:50px;">
+Microsoft Certified Professional | <img src="https://github.com/alliallfrey/alliallfrey.github.io/blob/main/.attachments/microsoft-certified-general-badge.png?raw=true" alt="Microsoft Certified Professional" style="width:50px;height:50px;">
 
-In 2022, I earned the [Azure Cosmos DB Developer Specialty][ms-cmdb], but was not renewed.
+In 2022, I earned the [Azure Cosmos DB Developer Specialty][ms-cmdb], but it was not renewed.
 
 [ms-cmdb]: https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty
 
